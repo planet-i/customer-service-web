@@ -1,2 +1,2 @@
 # customer-service-web
-客服机器人前台
+通用AI客服机器人前台
